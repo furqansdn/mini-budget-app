@@ -1,5 +1,5 @@
 # mini-budget-app
-Budget Apps build using es6 + webpack + babel
+Budget Apps build using javascript es6 + webpack + babel
 
 Install with npm:
 
