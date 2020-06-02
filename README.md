@@ -4,7 +4,7 @@ Budget Apps build using es6 + webpack + babel
 Install with npm:
 
 ```bash
-npm install --save-dev webpack
+npm install
 ```
 
 Run Application:
